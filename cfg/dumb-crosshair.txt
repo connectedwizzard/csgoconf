@@ -1,0 +1,25 @@
+> find cl_crosshair
+[Console] name                                     value    default  flags                    help text
+[Console] ________________________________________ ________ ________ ________________________ ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+[Console] cl_crosshair_drawoutline                 true               client archive per_user Draws a black outline around the crosshair for better visibility
+[Console] cl_crosshair_dynamic_maxdist_splitratio  0.35     1         client archive per_user If using cl_crosshairstyle 2, this is the ratio used to determine how long the inner and outer xhair pips will be. [inner = cl_crosshairsize*(1-cl_crosshair_dynamic_maxdist_splitratio), outer = cl_crosshairsize*cl_crosshair_dynamic_maxdist_splitratio]  [0 - 1]
+[Console] cl_crosshair_dynamic_splitalpha_innermod 1        0         client archive per_user If using cl_crosshairstyle 2, this is the alpha modification that will be used for the INNER crosshair pips once they've split. [0 - 1]
+[Console] cl_crosshair_dynamic_splitalpha_outermod 0.5      1         client archive per_user If using cl_crosshairstyle 2, this is the alpha modification that will be used for the OUTER crosshair pips once they've split. [0.3 - 1]
+[Console] cl_crosshair_dynamic_splitdist           7        3         client archive per_user If using cl_crosshairstyle 2, this is the distance that the crosshair pips will split into 2. (default is 7)
+[Console] cl_crosshair_friendly_warning            0        1         client archive          0: off, 1: on
+[Console] cl_crosshair_outlinethickness            1                  client archive per_user Set how thick you want your crosshair outline to draw (0-3)
+[Console] cl_crosshair_recoil                      false    true      client archive per_user
+[Console] cl_crosshair_sniper_width                1                  client archive per_user If >1 sniper scope cross lines gain extra width (1 for single-pixel hairline)
+[Console] cl_crosshair_t                           false              client archive per_user T style crosshair
+[Console] cl_crosshairalpha                        200                client archive per_user
+[Console] cl_crosshaircolor                        5                  client archive per_user Set crosshair color as defined in game_options.consoles.txt
+[Console] cl_crosshaircolor_b                      255      0         client archive per_user
+[Console] cl_crosshaircolor_g                      0        255       client archive per_user
+[Console] cl_crosshaircolor_r                      255      0         client archive per_user
+[Console] cl_crosshairdot                          false              client archive per_user
+[Console] cl_crosshairgap                          -1.00188 -2.2      client archive per_user
+[Console] cl_crosshairgap_useweaponvalue           false    true      client archive per_user If set to 1, the gap will update dynamically based on which weapon is currently equipped
+[Console] cl_crosshairsize                         2.5      3.9       client archive per_user
+[Console] cl_crosshairstyle                        4        2         client archive per_user 0 = DEFAULT (DISABLED), 1 = DEFAULT STATIC (DISABLED), 2 = DEFAULT (accurate recoil/spread feedback with a fixed inner part), 3 = ACCURATE DYNAMIC (DISABLED) (accurate recoil/spread feedback), 4 = DEFAULT STATIC, 5 = LEGACY (fake recoil - inaccurate feedback)
+[Console] cl_crosshairthickness                    0.7      0.6       client archive per_user
+[Console] cl_crosshairusealpha                     true               client archive per_user
