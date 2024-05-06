@@ -1,0 +1,126 @@
+print_changed_convars
+
+ConVars (non-default):
+
+                                               var                            value                          default
+                                bot_allow_grenades                            0                             1
+                                       bot_chatter                              off                           normal
+                                    bot_dont_shoot                             1                            0
+                                         bot_quota                                1                               10
+                                    bot_quota_mode                             fill                           normal
+                    cachedvalue_count_partybrowser                       1714914568                                0
+                       cachedvalue_count_teammates                       1715025152                                0
+                                        cl_autobuy vesthelm vest m4a1 ak47 famas ga                                 
+                                         cl_clanid                         34175557                                0
+                                          cl_color                                0                                4
+           cl_crosshair_dynamic_maxdist_splitratio                             0.35                                1
+          cl_crosshair_dynamic_splitalpha_innermod                                1                                0
+          cl_crosshair_dynamic_splitalpha_outermod                              0.5                                1
+                    cl_crosshair_dynamic_splitdist                                7                                3
+                     cl_crosshair_friendly_warning                                0                                1
+                               cl_crosshair_recoil                            0                             1
+                               cl_crosshaircolor_b                              255                                0
+                               cl_crosshaircolor_g                                0                              255
+                               cl_crosshaircolor_r                              255                                0
+                                   cl_crosshairgap                        -1.001875                             -2.2
+                    cl_crosshairgap_useweaponvalue                            0                             1
+                                  cl_crosshairsize                              2.5                              3.9
+                                 cl_crosshairstyle                                4                                2
+                             cl_crosshairthickness                              0.7                              0.6
+        cl_graphics_driver_warning_dont_show_again                             1                            0
+                                      cl_hud_color                                2                                0
+                                cl_hud_radar_scale                              0.8                                1
+                   cl_hud_telemetry_frametime_show                                2                                1
+             cl_hud_telemetry_net_misdelivery_show                                2                                1
+                        cl_hud_telemetry_ping_show                                2                                1
+                             cl_import_csgo_config                            0                             1
+                                 cl_new_user_phase                               -1                                0
+                         cl_observed_bot_crosshair                                0                                2
+                        cl_player_ragdolls_collide                             1                            0
+                              cl_prefer_lefthanded                             1                            0
+                     cl_radial_radio_version_reset                               12                                2
+                                          cl_rebuy Armor PrimaryWeapon Flashbang Sm                                 
+                        cl_show_observer_crosshair                                1                                2
+                             cl_use_opens_buy_menu                             1                            0
+                                        con_enable                             1                            0
+                            csgo_map_preview_scale                         7.142857                                0
+                                           fps_max                              240                              400
+                                         game_mode                                0                                1
+                                         game_type                                3                                0
+                                            hostip                      -1062717439                                0
+                                          hostname                      connwizzard                                 
+                                  hud_showtargetid                            0                             1
+                                  key_bind_version                                5                                0
+                      lb_barnlight_shadowmap_scale                             0.25                                1
+                       lobby_default_privacy_bits2                                0                                1
+                       mm_dedicated_search_maxping                               60                              150
+                                       mp_autokick                            0                             1
+                                mp_autoteambalance                            0                             1
+                         mp_backup_round_file_last               backup_round00.txt                                 
+                                      mp_bot_ai_bt           scripts/ai/bt_look.kv3                                 
+                             mp_buy_allow_grenades                            0                             1
+                                   mp_buy_anywhere                                1                                0
+                                        mp_buytime                            99999                               90
+                           mp_ct_default_secondary                                0                   weapon_hkp2000
+                                     mp_free_armor                                2                                0
+                                     mp_freezetime                                0                                6
+                                 mp_give_player_c4                            0                             1
+                                     mp_limitteams                                0                                2
+                              mp_match_end_restart                             1                            0
+                                       mp_maxmoney                            99999                            16000
+                                      mp_maxrounds                              999                                0
+                           mp_respawn_immunitytime                                0                                4
+                            mp_respawn_on_death_ct                             1                            0
+                             mp_respawn_on_death_t                             1                            0
+                                      mp_roundtime                               60                                5
+                               mp_roundtime_defuse                               60                                0
+                                mp_solid_teammates                                0                                1
+                            mp_spawnprotectiontime                                0                                5
+                                     mp_startmoney                            99999                              800
+                                mp_suicide_penalty                            0                             1
+                            mp_t_default_secondary                                0                     weapon_glock
+                                mp_team_intro_time                                3                              6.5
+                          mp_teammates_are_enemies                             1                            0
+                                      mp_timelimit                                5                                0
+                          mp_warmup_online_enabled                            0                             1
+                                     mp_warmuptime                                5                               30
+                       mp_weapons_allow_map_placed                             1                            0
+                        mp_weapons_allow_typecount                               -1                                5
+                panorama_console_position_and_size       20.00|20.00|1000.00|800.00                                 
+      player_competitive_maplist_2v2_10_0_C8D88986 mg_de_inferno,mg_de_vertigo,mg_d mg_de_inferno,mg_de_nuke,mg_de_v
+         player_competitive_maplist_8_10_0_5069769 mg_de_dust2,mg_de_mirage,mg_de_v mg_de_dust2,mg_de_ancient,mg_de_
+                                r_fullscreen_gamma                         2.013074                              2.2
+                                       sensitivity                             0.85                             1.25
+                            snd_deathcamera_volume                                0                             0.16
+                           snd_mapobjective_volume                                0                             0.04
+                              snd_menumusic_volume                                0                             0.04
+                   snd_mute_mvp_music_live_players                             1                            0
+                                    snd_mvp_volume                                0                             0.16
+                               snd_roundend_volume                                0                             0.16
+                       snd_tensecondwarning_volume                                0                             0.04
+                                    snd_voipvolume                         0.491359                                1
+                             spec_replay_autostart                            0                             1
+                       steamworks_sessionid_client                    8810092768706                                0
+                     sv_auto_adjust_bot_difficulty                            0                             1
+                         sv_bot_buy_grenade_chance                                0                               33
+                                         sv_cheats                             1                            0
+                         sv_disable_immunity_alpha                             1                            0
+                                sv_game_mode_flags                               16                                0
+                                  sv_infinite_ammo                                1                                0
+                                       think_limit                                0                               10
+                     ui_inspect_bkgnd_map_B0B70CFF                       de_ancient                        warehouse
+                  ui_mainmenu_bkgnd_movie_B0B70CFF                       de_ancient                       ar_baggage
+                   ui_vanitysetting_loadoutslot_ct                             smg4                                 
+                    ui_vanitysetting_loadoutslot_t                       secondary4                                 
+                             ui_vanitysetting_team                               ct                                 
+                                     viewmodel_fov                               68                               60
+                                viewmodel_offset_x                              2.5                                1
+                                viewmodel_offset_y                                2                                1
+                                viewmodel_offset_z                               -2                               -1
+                               viewmodel_presetpos                                0                                1
+                                   violence_hblood                            0                             1
+                                   voice_threshold                              -90                             -120
+                                            volume                             0.35                                1
+                          weapon_auto_cleanup_time                                3                                0
+                         weapon_max_before_cleanup                                2                                0
+                            zoom_sensitivity_ratio                              0.9                                1
