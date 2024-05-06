@@ -8,8 +8,6 @@
 **/*.cfg linguist-detectable=true
 
 # Do not export
-*.old export-ignore
-/**/*.txt export-ignore
-/.gitattributes export-ignore
-/LICENSE export-ignore
-/README.md export-ignore
+.gitattributes export-ignore
+LICENSE export-ignore
+README.md export-ignore
